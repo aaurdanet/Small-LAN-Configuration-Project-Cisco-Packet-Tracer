@@ -22,4 +22,4 @@ Files:
 How to Explore:
 
     Open the 'Small LAN Configuration.pkt' file in Cisco Packet Tracer.
-    Review network topology  & screenshots, and IP tables in the Word Document provided.
+    Review network topology, screenshots, and IP tables in the Word Document provided.
