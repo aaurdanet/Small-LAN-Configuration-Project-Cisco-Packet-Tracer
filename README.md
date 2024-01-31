@@ -21,6 +21,5 @@ Files:
 
 How to Explore:
 
-    Open the 'packet_tracer_model.pkt' file in Cisco Packet Tracer.
-    Examine screenshots in the 'screenshots' directory for a visual representation.
-    Review diagrams and IP tables in the word document provided.
+    Open the 'Small LAN Configuration.pkt' file in Cisco Packet Tracer.
+    Review network topology  & screenshots, and IP tables in the Word Document provided.
