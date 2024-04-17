@@ -5,21 +5,21 @@ This project demonstrates the configuration of a Local Area Network (LAN) using 
 
 Key Components:
 
-    3 PCs
-    1 Switch
-    1 Router
+3 PCs
+1 Switch
+1 Router
 
 Project Highlights:
 
-    Configured Cisco switches in a simulated environment.
-    Implemented a LAN setup with IP addressing and hierarchical design.
-    Utilized Cisco Packet Tracer for modeling and simulation.
+Configured Cisco switches in a simulated environment.
+Implemented a LAN setup with IP addressing and hierarchical design.
+Utilized Cisco Packet Tracer for modeling and simulation.
 
 Files:
 
-    Small LAN Configuration.pkt: Cisco Packet Tracer file with the configured LAN model.
+Small LAN Configuration.pkt: Cisco Packet Tracer file with the configured LAN model.
 
 How to Explore:
 
-    Open the 'Small LAN Configuration.pkt' file in Cisco Packet Tracer.
-    Review network topology, screenshots, and IP tables in the Word Document provided.
+Open the 'Small LAN Configuration.pkt' file in Cisco Packet Tracer.
+Review network topology, screenshots, and IP tables in the Word Document provided.
